@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Conhecimentos separados por tipo -->
+    <string-array name="front">
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>Javascript</item>
+    </string-array>
+    <string-array name="back">
+        <item>Python</item>
+        <item>Django</item>
+    </string-array>
+    <string-array name="mobile">
+        <item>Desenvolvimento Android</item>
+        <item>Desenvolvimento iOS</item>
+    </string-array>
+
+    <string name="back">back</string>
+    <string name="front">front</string>
+    <string name="mobile">mobile</string>
+    
+    <!-- Strings do E-mail -->
+    <string name="subject">Obrigado por se candidatar</string>
+    <string name="email_front">Obrigado por se candidatar, assim que tivermos uma vaga disponível para programador Front-End entraremos em contato.</string>
+    <string name="email_back">Obrigado por se candidatar, assim que tivermos uma vaga disponível para programador Back-End entraremos em contato.</string>
+    <string name="email_mobile">Obrigado por se candidatar, assim que tivermos uma vaga disponível para programador Mobile entraremos em contato.</string>
+    <string name="email_generic">Obrigado por se candidatar, assim que tivermos uma vaga disponível para programador entraremos em contato.</string>
+    <string name="app_name">DesafioMeusPedidos</string>
+    <string name="name">Nome</string>
+    <string name="email">E-mail</string>
+    <string name="introduction">Este aplicativo tem como objetivo a avaliação de candidatos para os processos 
+	    seletivos que ocorrerem no Meus Pedidos. \nPreencha os campos abaixo e depois confirme para iniciar 
+	    sua avaliação. \n\n Boa Sorte!!!</string>
+    <string name="init">Iniciar Avaliação</string>
+    <string name="finalize">Finalizar Avaliação</string>
+    <string name="att">Atenção</string>
+    <string name="msg_error_field">Todos os campos precisam ser preenchidos.</string>
+    <string name="email_invalidate">E-mail invalido.</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="msg_confirm">Realmente deseja finalizar a avaliação?</string>
+    <string name="orientation"> Avalie seu conhecimento nos itens abaixo, 
+	    assinalando de 0 (não conheço) até 10 (sou foda):</string>
+	    
+</resources>
